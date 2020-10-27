@@ -1,2 +1,2 @@
 # imersao-dados-alura
-Esse repositório foi criado para compartilhar os exercícios da 2ª imersão de dados da Alura, na qual foram explorados os dados do ENEM 2019.
+Esse repositório foi criado para compartilhar os exercícios da 2ª imersão de dados da Alura. Nesta imersão foi analisada uma amostra dos dados do ENEM 2019, em âmbito nacional. As ferramentas utilizadas foram linguagem Python e suas bibliotecas Pandas, Matplotlib, Seaborn, Numpy e Sklearn. Ao final da semana de aulas foi proposto um desafio de analisar os dados do ENEM 2019 do estado do participante, criando visializações dos dados, testando hipóteses e chegando a conclusões.
